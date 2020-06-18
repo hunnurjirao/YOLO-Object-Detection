@@ -1,5 +1,5 @@
-# YOLO-Object-Detection
-YOLO Object Detection Using Open CV and DNN
+# YOLOv3-Object-Detection
+YOLOv3 Object Detection Using Open CV and DNN
 
 With yolo we can detect objects at a relatively high speed. With a GPU we would be able to process over 45 frames/second while with a CPU around a frame per second.
 
