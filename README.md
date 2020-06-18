@@ -10,3 +10,9 @@ With yolo we can detect objects at a relatively high speed. With a GPU we would 
   **Cfg file**: it’s the configuration file, where there are all the settings of the algorithm.
 
   **Name files**: contains the name of the objects that the algorithm can detect.
+### Object Detected Frames:
+
+ ***Here I have enabled object detection only for "presons".*** 
+
+![1](Frames/0.jpg) 
+![2](Frames/10.jpg)
