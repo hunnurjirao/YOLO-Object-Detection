@@ -5,7 +5,7 @@ With yolo we can detect objects at a relatively high speed. With a GPU we would 
 
 ## To run the algorithm we need three files:
 
-  **Weight file**: it’s the trained model, the core of the algorithm to detect the objects.
+  **Weight file**: it’s the trained model, the core of the algorithm to detect the objects.[https://pjreddie.com/media/files/yolov3.weights]
 
   **Cfg file**: it’s the configuration file, where there are all the settings of the algorithm.
 
